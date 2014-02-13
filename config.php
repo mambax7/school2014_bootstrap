@@ -1,9 +1,9 @@
 <?php
 //佈景種類 bootstrap or html
-$theme_kind='html';
+$theme_kind='bootstrap';
 
 //佈景主視區總寬度
-$theme_width=1200;
+$theme_width=12;
 
 //版面布局
 $theme_type="theme_type_2";
@@ -15,13 +15,13 @@ $theme_background_color='#FFFFFF';
 $theme_default_background='';
 
 //佈景左區域寬度
-$theme_left_width=240;
+$theme_left_width=3;
 
 //佈景左區域顏色
 $theme_left_color='#F2F4FF';
 
 //佈景右區域寬度
-$theme_right_width=240;
+$theme_right_width=3;
 
 //佈景右區域顏色
 $theme_right_color='#F4F4F4';
